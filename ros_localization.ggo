@@ -1,0 +1,4 @@
+package "ros_localization"
+version "1.0"
+purpose "lab56"
+

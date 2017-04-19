@@ -1,0 +1,11 @@
+package "ros_simulator"
+version "1.0"
+purpose "lab56"
+option "angle_max" -"p" double default="0.5" optional
+option "angle_min" -"x" double default="-0.5" optional
+option "time" -"t" double default="10.0" optional
+option "resolution" -"r" int default="640" optional
+option "variance" -"f" double default="0.1" optional
+option "time_step" -"b" double default="0.1" optional
+
+

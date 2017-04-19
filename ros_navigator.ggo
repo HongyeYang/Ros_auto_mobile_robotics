@@ -1,0 +1,6 @@
+package "ros_navigator"
+version "1.0"
+purpose "lab56"
+option "linearVelocity"-"l" double default="0.1" optional
+
+
